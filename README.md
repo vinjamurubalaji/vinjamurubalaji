@@ -26,6 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vinjamurubalaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Balaji Vinjamuru" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/vinjamuru.balaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohith shines" height="30" width="40" /></a>
+<a href="https://www.instagram.com/myperspective_balaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit shines" height="30" width="40" /></a>
  </p>
 <!--
 **vinjamurubalaji/vinjamurubalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
