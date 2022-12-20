@@ -1,5 +1,25 @@
-Hi 👋, I'm Balaji Vinjamuru 😃
 
+<h1 align="center">Hi 👋, I'm Nagasai Paidi 😃</h1>
+<h3 align="center">A passionate developer exploring Machine Learning,AI and Solving real world Problems</h3>
+
+
+ Few things I enjoy: Code💻  Landscape Photography 📸  Run🏃 Workout🏋️‍♂️ Hike⛰️ 
+ 
+- 🔭 I’m currently working on 👨‍💻👨‍💻 [Data analytics, Python, Excel, SQL, PowerBi, Tableau, Statistics](https://github.com/vinjamurubalaji)
+
+- 🌱 I’m currently learning 🧠 🧠 **Data analytics, Data Science **
+
+- 👯 I have domain knowledge of 📚📖 **Health care , Insurance**
+
+- 🤝 I’m looking for help with 🏢👨🏼‍🏭 **Job roles fits my skill set**
+
+- 💬 Ask me about 🦸‍♂️🦸‍♂️ **Python, Network Security, TCPIP 
+
+- 📫 How to reach me 📩📩 **paidinagasai296@gmail.com**
+
+- 📄 Know about my experiences 👀👀 [https://www.linkedin.com/in/follow-me/](https://www.linkedin.com/in/nagasaipaidi/)
+
+- ⚡ Fun fact 🕵️‍♂️🕵️‍♂️ **I have written Algorithm on how to crack vegas Casino Roulette**
 <!--
 **vinjamurubalaji/vinjamurubalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
