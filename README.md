@@ -1,3 +1,4 @@
+![MasterHead](https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47hz7q4pq3k3xipcb07qq1wf0d3h45539qnub9zr3n&rid=giphy.gif&ct=g)
 
 <h1 align="center">Hi 👋, I'm Balaji Vinjamuru  😃</h1>
 <h3 align="center">A passionate developer exploring Machine Learning,AI and Solving real world Problems</h3>
