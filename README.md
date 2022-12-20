@@ -21,6 +21,12 @@
 - 📄 Know about my experiences 👀👀 [https://www.linkedin.com/in/follow-me/](https://www.linkedin.com/in/vinjamurubalaji/)
 
 - ⚡ Fun fact 🕵️‍♂️🕵️‍♂️ **I have written Algorithm on how to crack vegas Casino Roulette**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/follow-me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Balaji Vinjamuru" height="30" width="40" /></a>
+ </p>
 <!--
 **vinjamurubalaji/vinjamurubalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
